@@ -1,5 +1,6 @@
 [features]
 seeds = false
+
 [programs.localnet]
 first = "BoeNUzUVRwqA4xUjL3dmoypZaFSJDMPz5MkWPL1gTZiK"
 
